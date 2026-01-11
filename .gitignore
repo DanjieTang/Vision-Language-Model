@@ -210,3 +210,4 @@ coco2017/
 annotation/
 .DS_Store
 llava_instruct_150k.json
+Google_OpenImage_v7
